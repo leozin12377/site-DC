@@ -6,7 +6,7 @@ body {
 
 ul {
     display: flex;
-    justify-content:  space-between;
+    justify-content: last  space-between;
     list-style-type: none;
     align-items: center;
     padding: 16px;
